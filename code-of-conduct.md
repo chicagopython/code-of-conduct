@@ -1,12 +1,10 @@
 # Code of Conduct
 
 The Chicago Python User Group(ChiPy) community is made up of active members
-from the greater Chicago-land areas and Alumni from around the globe with a
-diverse set of skills, personalities, and experiences. It is through these
-differences that our community experiences great successes and continued
-growth. When you're working with members of the community, we encourage you to
-follow these guidelines which help steer our interactions and strive to keep
-Python a positive, successful, and growing community.
+from the greater Chicago-land areas and participating virtually with a
+diverse set of skills, personalities, and experiences. It is through this
+diversity that our community experiences great successes and continued
+growth.
 
 We value the participation of each member of the Python community and want all
 participants to have an enjoyable and fulfilling experience. Accordingly, all
