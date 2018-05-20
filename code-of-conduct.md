@@ -38,7 +38,8 @@ Examples of unacceptable behavior by participants include:
 - Harassment of event participants in any form
 - Deliberate intimidation, stalking, or following
 - Violent threats or language directed against another person
-- Sexual language and imagery in any event venue, including talks
+- Sexual language and imagery in any event venue, including talks, Slack,
+Twitter, or other online media
 - Insults or put downs
 - Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
 - Excessive swearing
@@ -50,6 +51,9 @@ people of many different backgrounds
 
 Participants asked to stop any inappropriate behavior are expected to comply
 immediately.
+
+Sponsors are also subject to the anti-harassment policy. In particular,
+sponsors should not use sexualised images, activities, or other material.
 
 If a participant engages in behavior that violates this code of conduct, the
 event organizers may take any action they deem appropriate, including warning
@@ -97,6 +101,9 @@ This Code of Conduct was forked from the example policy from the [PyCon US Code
 of
 Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md),
 which is under a Creative Commons Zero license.
+
+Additional content incorporated from:
+ * [AlterConf Code of Conduct](https://www.alterconf.com/code-of-conduct)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
