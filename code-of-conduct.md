@@ -36,22 +36,18 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-- Continued one-on-one communication after requests to cease.
+- Continued one-on-one communication after requests to cease
 - Deliberate misgendering, using inappropriate pronouns, or use of “dead” or
-rejected names.
-- Excessive swearing
+rejected names
 - Harassing or non-consensual photography or recording
 - Harassment of event participants in any form
 - Hate symbols
-- Inappropriate physical contact
-- Insults or put downs
 - Incitement of violence towards any individual or group, including encouraging
-a person to commit suicide or to engage in self-harm.
+a person to engage in self-harm
+- Insults, put downs or excessive swearing
 - Intimidation, stalking or following
-- Other conduct that is inappropriate for a professional audience including
-people of many different backgrounds
-- Patterns of inappropriate social contact, such as requesting/assuming
-- inappropriate levels of intimacy with others.
+- Inappropriate physical contact or unwelcome contact of any kind, especially
+after a request to stop
 - Physical assault and/or battery
 - Policing bathrooms based on gender expression or identity
 - Publication of non-harassing private communication
@@ -62,9 +58,10 @@ Twitter, or other online media
 - Threats - violent or otherwise - directed against another person
 - Unwelcome comments regarding a person’s lifestyle choices and practices,
 including those related to food, health, parenting, relationships, drugs, and
-employment.
-- Unwelcome physical contact of any kind, especially after a request to stop
+employment
 - Unwelcome sexual attention or advances
+- Other conduct that is inappropriate for a professional audience that includes
+people of many different backgrounds
 
 Participants asked to stop any inappropriate behavior are expected to comply
 immediately.
