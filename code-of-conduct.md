@@ -19,8 +19,9 @@ following Code of Conduct. Organizers will enforce this code at every event.
 
 ChiPy is dedicated to providing a positive experience for everyone, regardless
 of age, gender identity and expression, sexual orientation, disability,
-physical appearance, body size, ethnicity, nationality, race, or religion (or
-lack thereof), education, or socio-economic status.
+physical appearance, body size, ethnicity, nationality, citizenship, color,
+race, or religion (or lack thereof), pregnancy, education, or socio-economic
+status.
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -35,19 +36,24 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-- Harassment of event participants in any form
-- Deliberate intimidation, stalking, or following
-- Violent threats or language directed against another person
-- Sexual language and imagery in any event venue, including talks, Slack,
-Twitter, or other online media
-- Insults or put downs
-- Sexist, racist, homophobic, transphobic, ableist, or exclusionary jokes
+- Bathroom policing
 - Excessive swearing
-- Unwelcome sexual attention or advances
-- Unwelcome physical contact
-- Sustained disruption of talks or other events
+- Harassing or non-consensual photography or recording
+- Harassment of event participants in any form
+- Hate symbols
+- Inappropriate physical contact
+- Insults or put downs
+- Intimidation, stalking or following
 - Other conduct that is inappropriate for a professional audience including
 people of many different backgrounds
+- Physical assault and/or battery
+- Sexist, racist, homophobic, transphobic, ableist, or other exclusionary jokes
+- Sexual language and imagery in any event venue, including talks, Slack,
+Twitter, or other online media
+- Sustained disruption of talks or other events
+- Threats, violent or otherwise, directed against another person
+- Unwelcome physical contact
+- Unwelcome sexual attention or advances
 
 Participants asked to stop any inappropriate behavior are expected to comply
 immediately.
@@ -82,9 +88,10 @@ sponsored or unofficial events related to ChiPy events.
 
 ## Contact Information
 
-For any issues under this code, or questions about it, please contact the ChiPy
-organizers at (chicago-organizers@python.org) or approach any of the organizers
-directly in person or on Slack.
+Anyone can report harassment. If someone’s behavior has made you uncomfortable,
+or if you witness the same happening to someone else, you should immediately
+contact ChiPy organizers in-person or on Slack, or send an email to
+chicago-organizers@python.org.
 
 Organizers of ChiPy will be happy to help participants contact hotel/venue
 security or local law enforcement, provide escorts, or otherwise assist any
@@ -104,6 +111,7 @@ which is under a Creative Commons Zero license.
 
 Additional content incorporated from:
  * [AlterConf Code of Conduct](https://www.alterconf.com/code-of-conduct)
+ * [C2E2 Anti-Harrassment Policy](http://www.c2e2.com/About/FAQ-and-Policies/Harassment-Policy/)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
