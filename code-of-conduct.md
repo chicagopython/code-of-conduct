@@ -66,9 +66,6 @@ people of many different backgrounds
 Participants asked to stop any inappropriate behavior are expected to comply
 immediately.
 
-Sponsors are also subject to the anti-harassment policy. In particular,
-sponsors should not use sexualised images, activities, or other material.
-
 If a participant engages in behavior that violates this code of conduct, the
 event organizers may take any action they deem appropriate, including warning
 the offender or expulsion from the event (without refund, if applicable) and
@@ -94,6 +91,9 @@ organizers and volunteers, as well as attendees of the talk events,
 collaborative work environments, receptions / after-party events, or other
 sponsored or unofficial events related to ChiPy events.
 
+Sponsors are also subject to the anti-harassment policy. In particular,
+sponsors should not use sexualised images, activities, or other material.
+
 ## Contact Information
 
 Anyone can report harassment. If someone’s behavior has made you uncomfortable,
@@ -109,6 +109,13 @@ attendee to feel safe during ChiPy events. We value your attendance.
 
 Attendee Procedure for incident handling
 https://us.pycon.org/2018/about/code-of-conduct/staff-procedure
+
+## Updating
+
+This Code of Conduct is a living document and subject to revision and change.
+Requests may be submitted for consideration. The final decision to incorporate
+changes or otherwise update this document is subject to a decision by the ChiPy
+Organizers.
 
 ## License
 
