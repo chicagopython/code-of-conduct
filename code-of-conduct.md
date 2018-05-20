@@ -98,8 +98,8 @@ sponsors should not use sexualised images, activities, or other material.
 
 Anyone can report harassment. If someone’s behavior has made you uncomfortable,
 or if you witness the same happening to someone else, you should immediately
-contact ChiPy organizers in-person or on Slack, or send an email to
-chicago-organizers@python.org.
+contact ChiPy organizers in-person or on Slack, or send an email to the On-Call
+responser at chipy.conduct@gmail.com.
 
 Organizers of ChiPy will be happy to help participants contact hotel/venue
 security or local law enforcement, provide escorts, or otherwise assist any
@@ -107,8 +107,8 @@ attendee to feel safe during ChiPy events. We value your attendance.
 
 ## Procedure for Handling Incidents
 
-Attendee Procedure for incident handling
-https://us.pycon.org/2018/about/code-of-conduct/staff-procedure
+To respond to incidencts, those receiving requests will follow the [Organizers
+procedure for report handling](./report-handling-procedure)
 
 ## Updating
 
