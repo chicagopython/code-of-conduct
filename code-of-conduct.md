@@ -36,23 +36,34 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-- Bathroom policing
+- Continued one-on-one communication after requests to cease.
+- Deliberate misgendering, using inappropriate pronouns, or use of “dead” or
+rejected names.
 - Excessive swearing
 - Harassing or non-consensual photography or recording
 - Harassment of event participants in any form
 - Hate symbols
 - Inappropriate physical contact
 - Insults or put downs
+- Incitement of violence towards any individual or group, including encouraging
+a person to commit suicide or to engage in self-harm.
 - Intimidation, stalking or following
 - Other conduct that is inappropriate for a professional audience including
 people of many different backgrounds
+- Patterns of inappropriate social contact, such as requesting/assuming
+- inappropriate levels of intimacy with others.
 - Physical assault and/or battery
+- Policing bathrooms based on gender expression or identity
+- Publication of non-harassing private communication
 - Sexist, racist, homophobic, transphobic, ableist, or other exclusionary jokes
 - Sexual language and imagery in any event venue, including talks, Slack,
 Twitter, or other online media
 - Sustained disruption of talks or other events
-- Threats, violent or otherwise, directed against another person
-- Unwelcome physical contact
+- Threats - violent or otherwise - directed against another person
+- Unwelcome comments regarding a person’s lifestyle choices and practices,
+including those related to food, health, parenting, relationships, drugs, and
+employment.
+- Unwelcome physical contact of any kind, especially after a request to stop
 - Unwelcome sexual attention or advances
 
 Participants asked to stop any inappropriate behavior are expected to comply
@@ -112,6 +123,7 @@ which is under a Creative Commons Zero license.
 Additional content incorporated from:
  * [AlterConf Code of Conduct](https://www.alterconf.com/code-of-conduct)
  * [C2E2 Anti-Harrassment Policy](http://www.c2e2.com/About/FAQ-and-Policies/Harassment-Policy/)
+ * [Chicago Technology Diversity Initiative Code of Conduct](http://bit.do/chitechdiversity_coc)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
