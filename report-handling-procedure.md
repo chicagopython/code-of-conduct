@@ -80,7 +80,7 @@ you, please do let us know.
 
 > Thank you again!
 
-> Regards, > [First Last name] > DSF Code of Conduct Committee
+> Regards, > [First Last name] > ChiPy Code of Conduct Committee
 
 The first responder should also add a record of the report in our files.
 
