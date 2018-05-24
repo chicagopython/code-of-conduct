@@ -1,16 +1,12 @@
 :point_left: [Come back to index](README.md)
 
-# Chicago Python Users Group Code of Conduct
-
-The following guide was borrowed almost-entirely from the excellent Django Code
-of Conduct [Report Handling
-Procedure](https://github.com/django/code-of-conduct/blob/master/reports.md).
+# Chicago Python User Group(ChiPy) Code of Conduct
 
 ## Report handling procedure
 
-This document aims to present the way we handle received reports. This is not a
-complete guide, but a set of guidelines or best practices that guide the way we
-provide support to the community. Each issue is different and requires
+This document aims to present the way ChiPy handles received reports. This is
+not a complete guide, but a set of guidelines and best practices that guide the
+way we provide support to the community. Each issue is different and requires
 individual consideration on a case-to-case basis.
 
 ### How we receive reports
@@ -23,13 +19,24 @@ It is possible for an individual to receive a report individually via email,
 Slack or in-person. They should be responsible for summarizing and emailing the
 central email account where possible (i.e. there is no conflict of interest).
 
+### Privacy
+
+Throughout the process we intend to keep confidential any information on the
+reporter or subject of the report as information is gathered. If necessary, we
+may need to share identity or activity information more broadly. In that case
+we will pursue every avenue to alert the affected persons prior to the release
+and ensure any information is shared in a limited and effective way. An ideal
+resolution has an effective and mutually agreed upon remediation(for the
+organization and the reporter) while ensuring maximum privacy and discretion.
+
 ### On-call duty
 
 In order to achieve a fast response time to received reports, we implement a
-month long on-call duty that is rotated between Organizers. On the first
-meeting of each month, we assign one member to be the primary person on duty
-and another member to be a secondary supporter. The schedule is managed via
-[On Call Roster](http://www.chipy.org/pages/conduct-on-call/).
+month long on-call duty that is rotated between members of the Conduct
+Committee. On the first meeting of each month, we assign one member to be the
+primary person on duty and another member to be a secondary supporter. The
+committe roster and the schedule is managed via [On Call
+Roster](http://www.chipy.org/pages/conduct-on-call/).
 
 **Primary person on duty** is responsible for providing the initial response to
  a reporter, ideally within half a day. They're also responsible for either
@@ -195,3 +202,10 @@ If the issue was already resolved by local representatives handling Code
 of Conduct issue, our committee doesn't carry the responsibility of informing
 the subject of the report that the record will be kept by us unless there is a
 clear reason why we would like to follow up to find out their side of the story.
+
+## Source Shoutout
+
+This guide was borrowed almost-entirely from the excellent Django Code of
+Conduct [Report Handling
+Procedure](https://github.com/django/code-of-conduct/blob/master/reports.md).
+We remain extemely grateful for their thorough, transparent example.

@@ -38,7 +38,7 @@ Examples of unacceptable behavior by participants include:
 
 - Continued one-on-one communication after requests to cease
 - Deliberate misgendering, using inappropriate pronouns, or use of “dead” or
-rejected names
+rejected names*
 - Harassing or non-consensual photography or recording
 - Harassment of event participants in any form
 - Hate symbols
@@ -73,6 +73,9 @@ banning from future events.
 
 Thank you for helping make this a welcoming, friendly community for all.
 
+__*__ A dead name is a birthname or other name other than the chosen name of a
+transgendered individual.
+
 ### Weapons Policy
 
 No weapons are allowed at ChiPy venues, including but not limited to explosives
@@ -99,7 +102,7 @@ sponsors should not use sexualised images, activities, or other material.
 Anyone can report harassment. If someone’s behavior has made you uncomfortable,
 or if you witness the same happening to someone else, you should immediately
 contact ChiPy organizers in-person or on Slack, or send an email to the On-Call
-responser at chipy.conduct@gmail.com.
+responder at chipy.conduct@gmail.com.
 
 Organizers of ChiPy will be happy to help participants contact hotel/venue
 security or local law enforcement, provide escorts, or otherwise assist any
@@ -128,6 +131,7 @@ Additional content incorporated from:
  * [AlterConf Code of Conduct](https://www.alterconf.com/code-of-conduct)
  * [C2E2 Anti-Harrassment Policy](http://www.c2e2.com/About/FAQ-and-Policies/Harassment-Policy/)
  * [Chicago Technology Diversity Initiative Code of Conduct](http://bit.do/chitechdiversity_coc)
+ * [Django Code of Conduct](https://github.com/django/code-of-conduct)
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
