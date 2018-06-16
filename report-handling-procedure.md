@@ -203,6 +203,10 @@ of Conduct issue, our committee doesn't carry the responsibility of informing
 the subject of the report that the record will be kept by us unless there is a
 clear reason why we would like to follow up to find out their side of the story.
 
+## Flowchart
+
+![Report handling flowchart](./report-handling-flowchart.svg)
+
 ## Source Shoutout
 
 This guide was borrowed almost-entirely from the excellent Django Code of
