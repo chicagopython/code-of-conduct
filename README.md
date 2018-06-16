@@ -8,6 +8,8 @@ in other media.
 
 * [Code of Conduct](./code-of-conduct.md)
 * [Report Handling Procedure](./report-handling-procedure.md)
+* [Incident Response Procedure](./incident-response.md)
+* [Short form boilerplate for emails/flyers](./boilerplate-short-form.md)
 
 ## Enforcement
 
