@@ -2,9 +2,9 @@
 
 The Chicago Python User Group(ChiPy) community is made up of active members
 from the greater Chicago-land areas and from virtual participation. Each member
-brings with them a unique set of skills, personality, and experiences; it is through
-the diversity of our community that ChiPy experiences great successes and continued
-growth.
+brings with them a unique set of skills, personality, and experiences; it is
+through the diversity of our community that ChiPy experiences great successes
+and continued growth.
 
 We value the participation of each member of the Python community and want all
 to have an enjoyable and fulfilling experience. Accordingly, every participant

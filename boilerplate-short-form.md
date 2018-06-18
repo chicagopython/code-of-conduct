@@ -1,4 +1,4 @@
-﻿:point_left: [Come back to index](README.md)
+:point_left: [Come back to index](README.md)
 
 # Chicago Python User Group(ChiPy) Code of Conduct
 
@@ -13,16 +13,19 @@ chipy.conduct@gmail.com.
 
 The committee roster is available at http://www.chipy.org/pages/conduct-on-call/.
 
-
 ### Medium length (e.g. for brochures and flyers)
 
 *note: prefer the tiny reference above except on printed material where
  hyperlinks are not useful*
 
-The Chicago Python User Group community is made up of active members with a
-diverse set of skills, personalities, and experiences.
+The Chicago Python User Group(ChiPy) community is made up of active members
+from the greater Chicago-land areas and from virtual participation. Each member
+brings with them a unique set of skills, personality, and experiences; it is
+through the diversity of our community that ChiPy experiences great successes
+and continued growth.
+
 We're accepting of all who wish to take part in our activities, fostering an
-environment where anyone can participate and everyone can make a difference. 
+environment where anyone can participate and everyone can make a difference.
 Accordingly, we expect all attendees to show respect and courtesy to other
 attendees at all ChiPy events.
 
@@ -31,7 +34,7 @@ ChiPy event must conform to our Code of Conduct. Organizers will enforce
 this code throughout our events.
 
 **Our full code of conduct can be found at:**
-http://www.chipy.org/pages/conduct/ 
+http://www.chipy.org/pages/conduct/
 
 **Here is the short version:**
 
