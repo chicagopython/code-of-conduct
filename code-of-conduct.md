@@ -1,15 +1,14 @@
 # Code of Conduct
 
 The Chicago Python User Group(ChiPy) community is made up of active members
-from the greater Chicago-land areas and participating virtually with a
-diverse set of skills, personalities, and experiences. It is through this
-diversity that our community experiences great successes and continued
+from the greater Chicago-land areas and from virtual participation. Each member
+brings with them a unique set of skills, personality, and experiences; it is through
+the diversity of our community that ChiPy experiences great successes and continued
 growth.
 
 We value the participation of each member of the Python community and want all
-participants to have an enjoyable and fulfilling experience. Accordingly, all
-participants are expected to show respect and courtesy to other participants at
-all ChiPy events.
+to have an enjoyable and fulfilling experience. Accordingly, every participant
+is expected to show respect and courtesy to other participants at all ChiPy events.
 
 To make clear what is expected, all participants, speakers, sponsors,
 organizers, and volunteers at any ChiPy event are required to conform to the
@@ -17,11 +16,18 @@ following Code of Conduct. Organizers will enforce this code at every event.
 
 ## Our Standards
 
+
+ actual or perceived race, sex, religion, color, age, national origin,
+ veteran and/or military status, genetic information, disability, sexual orientation,
+ gender identity and/or expression,  or any
+ combination of these factors
+
 ChiPy is dedicated to providing a positive experience for everyone, regardless
 of age, gender identity and expression, sexual orientation, disability,
-physical appearance, body size, ethnicity, nationality, citizenship, color,
-race, or religion (or lack thereof), pregnancy, education, or socio-economic
-status.
+physical appearance, body size, actual or perceived race, ethnicity, national origin,
+citizenship, color, religion (or lack thereof), veteran and/or military status
+marital status or parental status, pregnancy, educational background, socio-economic
+status, or any combination of these factors.
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -36,16 +42,16 @@ include:
 
 Examples of unacceptable behavior by participants include:
 
-- Continued one-on-one communication after requests to cease
+- Continuing one-on-one communication after requests to cease
 - Deliberate misgendering, using inappropriate pronouns, or use of “dead” or
 rejected names*
-- Harassing or non-consensual photography or recording
-- Harassment of event participants in any form
-- Hate symbols
-- Incitement of violence towards any individual or group, including encouraging
+- Carrying out non-consensual photography or recording of any kind
+- Harassing of event participants in any form
+- Using hate symbols
+- Inciting violence towards any individual or group, including encouraging
 a person to engage in self-harm
-- Insults, put downs or excessive swearing
-- Intimidation, stalking or following
+- Using insults, put downs or excessive swearing
+- Intimidating, stalking or following participant(s)
 - Inappropriate physical contact or unwelcome contact of any kind, especially
 after a request to stop
 - Physical assault and/or battery
@@ -100,8 +106,8 @@ sponsors should not use sexualised images, activities, or other material.
 ## Contact Information
 
 Anyone can report harassment. If someone’s behavior has made you uncomfortable,
-or if you witness the same happening to someone else, you should immediately
-contact ChiPy organizers in-person or on Slack, or send an email to the On-Call
+or if you have witnessed any form of unacceptable behavior, you should immediately
+contact ChiPy organizers in-person, on Slack, or send an email to the On-Call
 responder at chipy.conduct@gmail.com.
 
 Organizers of ChiPy will be happy to help participants contact hotel/venue
@@ -110,7 +116,7 @@ attendee to feel safe during ChiPy events. We value your attendance.
 
 ## Procedure for Handling Incidents
 
-To respond to incidencts, those receiving requests will follow the [Organizers
+To respond to incidents, those receiving requests will follow the [Organizers
 procedure for report handling](./report-handling-procedure)
 
 ## Updating

@@ -5,19 +5,19 @@
 ## Report handling procedure
 
 This document aims to present the way ChiPy handles received reports. This is
-not a complete guide, but a set of guidelines and best practices that guide the
+not a complete guide, but a set of guidelines and best practices that advise the
 way we provide support to the community. Each issue is different and requires
 individual consideration on a case-to-case basis.
 
 ### How we receive reports
 
-All reports received by us are usually sent to the
-[chipy.conduct@gmail.com](mailto:chipy.conduct@gmail.com) email address
-that is automatically forwarded to the on-call receivers of complaints.
+All reports sent to the [chipy.conduct@gmail.com](mailto:chipy.conduct@gmail.com)
+email address are automatically forwarded to the on-call receivers of complaints.
 
-It is possible for an individual to receive a report individually via email,
-Slack or in-person. They should be responsible for summarizing and emailing the
-central email account where possible (i.e. there is no conflict of interest).
+It is possible for a member to receive a report individually via email, Slack or
+in-person. The member will be responsible for compiling an incident report and
+emailing the report to the central email account where possible
+(i.e. there is no conflict of interest).
 
 ### Privacy
 
@@ -26,7 +26,7 @@ reporter or subject of the report as information is gathered. If necessary, we
 may need to share identity or activity information more broadly. In that case
 we will pursue every avenue to alert the affected persons prior to the release
 and ensure any information is shared in a limited and effective way. An ideal
-resolution has an effective and mutually agreed upon remediation(for the
+resolution has an effective and mutually agreed upon remediation (for the
 organization and the reporter) while ensuring maximum privacy and discretion.
 
 ### On-call duty
@@ -35,7 +35,7 @@ In order to achieve a fast response time to received reports, we implement a
 month long on-call duty that is rotated between members of the Conduct
 Committee. On the first meeting of each month, we assign one member to be the
 primary person on duty and another member to be a secondary supporter. The
-committe roster and the schedule is managed via [On Call
+committee roster and the schedule is managed via [On Call
 Roster](http://www.chipy.org/pages/conduct-on-call/).
 
 **Primary person on duty** is responsible for providing the initial response to
@@ -47,16 +47,16 @@ Roster](http://www.chipy.org/pages/conduct-on-call/).
  if they're not available.
 
 If all else fails, any member of the committee can step in and pick up an issue
- if they see that response hasn't been provided within a first day.
+ if they see that response hasn't been provided within a day.
 
 ### Initial response
 
 We aim to provide the initial response and acknowledgement of the received
-report ideally within couple of hours, or half a day.
+report ideally within a couple of hours, or half a day.
 
-If the response requires a decision, we should send an acknowledgement of the
-report (and carbon-copy the main address) to make sure the report is informed
-we're working on it, and not ignoring it:
+If the response requires a decision, an acknowledgement of the report
+(and carbon-copy the main address) will be sent to make sure the
+reporter is informed of the case status:
 
 > Hi X,
 
@@ -64,7 +64,7 @@ we're working on it, and not ignoring it:
 Committee. I appreciate you taking the time to get in touch - reports like this
 help us to make ChiPy a better community.
 
-> We'll discuss and get back to you with the outcome, and will keep this report
+> We will discuss and get back to you with the outcome, and will keep this report
 on file. Meanwhile, if there is anything else we can do to help or support you,
 please do let us know.
 
@@ -122,7 +122,7 @@ initial responder should send an update:
 
  > Dear [X],
 
-> I'm writing regarding your recent report to the ChiPy Code of Conduct
+> I'm writing in regard to your recent report to the ChiPy Code of Conduct
 Committee. I wanted to let you know that we have assigned the case to [Y], who
 will be your main point of contact going forward. [Y]'s email address is
 [E]. If you have any questions or concerns with this, please
@@ -130,7 +130,7 @@ let me know.
 
 > Regards, > [First Last name] > ChiPy Code of Conduct Committee
 
-Assuming no questions or concerns, this is marks the completion of the initial
+Assuming no questions or concerns, this marks the completion of the initial
 responder's responsibilities for this case. If the reporter does have concerns
 or questions, the first responder should ask the committee to resolve these.
 
@@ -141,7 +141,7 @@ to the fact that each issue is slightly different. However, there is a loosely
 defined set of stages that are present in each issue.
 
 - **Shepherd nomination** - The committee decides on a shepherd for the issue.
-- **Contacting the reporter** - The shepherd should contact the report letting
+- **Contacting the reporter** - The shepherd should contact the reporter letting
 them know they are the point of contact between the reporter and the committee,
 and will be available for the reporter if they have any questions. Based on the
 initial report, the shepherd may choose to ask for more information about the
