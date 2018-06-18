@@ -16,12 +16,6 @@ following Code of Conduct. Organizers will enforce this code at every event.
 
 ## Our Standards
 
-
- actual or perceived race, sex, religion, color, age, national origin,
- veteran and/or military status, genetic information, disability, sexual orientation,
- gender identity and/or expression,  or any
- combination of these factors
-
 ChiPy is dedicated to providing a positive experience for everyone, regardless
 of age, gender identity and expression, sexual orientation, disability,
 physical appearance, body size, actual or perceived race, ethnicity, national origin,
