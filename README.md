@@ -18,8 +18,9 @@ volunteers responsible for responding to CoC concerns. Key information on this
 committee, including the roster and schedule, is available on [CoC On Call
 Roster webpage](http://www.chipy.org/pages/conduct-on-call/).
 
-Reach this committee for CoC Concerns at any time by emailing:
-[chipy.conduct@gmail.com](mailto:chipy.conduct@gmail.com)
+Reach this committee for CoC Concerns at any time via the [ConductHotline
+Report page][https://conducthotline.com/e/chipy] or email the organizers at
+[chicago-organizers@python.org](mailto:chicago-organizers@python.org)
 
 The details of how this Committee operates is available in the [Report Handling
 Procedure](./report-handling-procedure.md).

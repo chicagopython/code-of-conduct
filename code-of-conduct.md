@@ -102,7 +102,7 @@ sponsors should not use sexualised images, activities, or other material.
 Anyone can report harassment. If someone’s behavior has made you uncomfortable,
 or if you have witnessed any form of unacceptable behavior, you should immediately
 contact ChiPy organizers in-person, on Slack, or send an email to the On-Call
-responder at chipy.conduct@gmail.com.
+responder at chicago-organizers@python.com.
 
 Organizers of ChiPy will be happy to help participants contact hotel/venue
 security or local law enforcement, provide escorts, or otherwise assist any
