@@ -9,7 +9,8 @@
 ChiPy is dedicated to creating a welcoming experience for everyone.
 Our code of conduct can be found at: http://www.chipy.org/pages/conduct/
 and you can contact the ChiPy Code of Conduct Committee at the [ConductHotline
-Report page][conduct hotline] or email the organizers at
+Report page][conduct hotline] or email the organizers at 
+chicago-organizers@python.org.
 
 The committee roster is available at [on our website][roster].
 
