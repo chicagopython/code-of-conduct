@@ -14,7 +14,7 @@ individual consideration on a case-to-case basis.
 The intent of incident response is to provide a guideline for how to
 respond to Code of Conduct issues while they are happening.
 Regardless of the severity of the incident, a report should be
-sent to chipy.conduct@gmail.com as soon as is convenient.
+sent via [conduct hotline] as soon as is convenient.
 
 1. If there is immediate danger or you are unsure, contact
    security or local law enforcement.
@@ -47,7 +47,7 @@ Do not pressure the reporter to take any action if they do not want to do it.
 Respect the reporter's privacy by not sharing unnecessary details with others,
 especially individuals who were not involved with the situation or non-staff members.
 
-Reports should be sent to chipy.conduct@gmail.com as soon as practical.
+Reports should be sent to the [conduct hotline] as soon as practical.
 The report should include as much of the following as you can remember:
 - Identifying information (name/badge number) of the participant
 - The time the incident was reported
@@ -61,7 +61,7 @@ The report should include as much of the following as you can remember:
 
 Any member of the Chipy Code of Conduct Committee can issue a verbal warning
 to a participant that their behavior violates ChiPy’s code of conduct.
-Warnings should be logged via an email to to chipy.conduct@gmail.com as
+Warnings should be logged via an email to the [conduct hotline] as
 soon as practical.
 The report should include as much of the following as you can remember:
 
@@ -82,3 +82,5 @@ should take immediate action to politely and calmly stop any
 presentation or event that repeatedly or seriously violates the
 Code of Conduct.  For example, simply say *"I'm sorry, this presentation
 cannot be continued at the present time"* with no further explanation.
+
+[conduct hotline]: https://conducthotline.com/e/chipy

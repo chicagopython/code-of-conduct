@@ -8,10 +8,11 @@
 
 ChiPy is dedicated to creating a welcoming experience for everyone.
 Our code of conduct can be found at: http://www.chipy.org/pages/conduct/
-and you can contact the ChiPy Code of Conduct Committee at
-chipy.conduct@gmail.com.
+and you can contact the ChiPy Code of Conduct Committee at the [ConductHotline
+Report page][conduct hotline] or email the organizers at 
+chicago-organizers@python.org.
 
-The committee roster is available at http://www.chipy.org/pages/conduct-on-call/.
+The committee roster is available at [on our website][roster].
 
 ### Medium length (e.g. for brochures and flyers)
 
@@ -53,16 +54,18 @@ Thank you for helping make this a welcoming, friendly environment for all.
 **Contact information:**
 
 If you feel harassed, witness harassment, or have other concerns,
-please contact a member of the ChiPy Code of Conduct Committee
-(chipy.conduct@gmail.com).  If you consider the matter especially
-urgent, please talk to the on call member on duty right away —
-they will be introduced at the beginning of each event.
+please contact a member of [the ChiPy Code of Conduct Committee][roster]
+.  If you consider the matter especially urgent, please talk to the on call
+member on duty right away — they will be introduced at the beginning of each
+event.
 
 Or if you feel uncomfortable speaking in person, you can make an
-anonymous report to chipy.conduct@gmail.com at a time that is
-convenient.
+anonymous report via the [conduct hotline] at a time that is convenient.
 
 A Chipy organizer or representative can help participants contact security
 or local law enforcement, provide escorts, or otherwise assist those
 experiencing harassment to feel safe during the event.
 We value your attendance.
+
+[conduct hotline]: https://conducthotline.com/e/chipy
+[roster]: http://www.chipy.org/pages/conduct-on-call/

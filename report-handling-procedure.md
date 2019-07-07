@@ -11,8 +11,8 @@ individual consideration on a case-to-case basis.
 
 ### How we receive reports
 
-All reports sent to the [chipy.conduct@gmail.com](mailto:chipy.conduct@gmail.com)
-email address are automatically forwarded to the on-call receivers of complaints.
+All reports sent to the [conduct hotline] email address are automatically
+forwarded to the on-call receivers of complaints.
 
 It is possible for a member to receive a report individually via email, Slack or
 in-person. The member will be responsible for compiling an incident report and
@@ -36,7 +36,7 @@ month long on-call duty that is rotated between members of the Conduct
 Committee. On the first meeting of each month, we assign one member to be the
 primary person on duty and another member to be a secondary supporter. The
 committee roster and the schedule is managed via [On Call
-Roster](http://www.chipy.org/pages/conduct-on-call/).
+Roster][roster].
 
 **Primary person on duty** is responsible for providing the initial response to
  a reporter, ideally within half a day. They're also responsible for either
@@ -213,3 +213,6 @@ This guide was borrowed almost-entirely from the excellent Django Code of
 Conduct [Report Handling
 Procedure](https://github.com/django/code-of-conduct/blob/master/reports.md).
 We remain extemely grateful for their thorough, transparent example.
+
+[conduct hotline]: https://conducthotline.com/e/chipy
+[roster]: http://www.chipy.org/pages/conduct-on-call/
