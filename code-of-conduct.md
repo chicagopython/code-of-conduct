@@ -10,9 +10,12 @@ We value the participation of each member of the Python community and want all
 to have an enjoyable and fulfilling experience. Accordingly, every participant
 is expected to show respect and courtesy to other participants at all ChiPy events.
 
-To make clear what is expected, all participants, speakers, sponsors,
-organizers, and volunteers at any ChiPy event are required to conform to the
-following Code of Conduct. Organizers will enforce this code at every event.
+## Scope
+
+All ChiPy participants are subject to the Code of Conduct, including regular participants, speakers, sponsors,
+organizers, and volunteers. The Code of Conduct applies at all times, in every venue, through any form of communication where a ChiPy participant is involved. 
+
+Organizers will enforce this code of conduct.
 
 ## Our Standards
 
@@ -40,7 +43,7 @@ Examples of unacceptable behavior by participants include:
 - Deliberate misgendering, using inappropriate pronouns, or use of “dead” or
 rejected names*
 - Carrying out non-consensual photography or recording of any kind
-- Harassing of event participants in any form
+- Harassing of event or platform participants in any form
 - Using hate symbols
 - Inciting violence towards any individual or group, including encouraging
 a person to engage in self-harm
@@ -52,9 +55,8 @@ after a request to stop
 - Policing bathrooms based on gender expression or identity
 - Publication of non-harassing private communication
 - Sexist, racist, homophobic, transphobic, ableist, or other exclusionary jokes
-- Sexual language and imagery in any event venue, including talks, Slack,
-Twitter, or other online media
-- Sustained disruption of talks or other events
+- Sexual language and imagery in any event venue or on any technology platform
+- Sustained disruption of talks, other events, or technology platforms
 - Threats - violent or otherwise - directed against another person
 - Unwelcome comments regarding a person’s lifestyle choices and practices,
 including those related to food, health, parenting, relationships, drugs, and
@@ -66,10 +68,10 @@ people of many different backgrounds
 Participants asked to stop any inappropriate behavior are expected to comply
 immediately.
 
-If a participant engages in behavior that violates this code of conduct, the
-event organizers may take any action they deem appropriate, including warning
-the offender or expulsion from the event (without refund, if applicable) and
-banning from future events.
+If a participant engages in behavior that violates this code of conduct,
+ChiPy organizers may take any action they deem appropriate,
+including warning the offender or expulsion from the event or technology platform (without refund, if applicable)
+and banning from future engagement with our community.
 
 Thank you for helping make this a welcoming, friendly community for all.
 
@@ -86,16 +88,6 @@ to leave immediately, and will only be allowed to return without the weapon.
 
 Attendees are further expected to comply with all state and local laws on this
 matter.
-
-## Scope
-
-All ChiPy attendees are subject to the Code of Conduct. This includes ChiPy
-organizers and volunteers, as well as attendees of the talk events,
-collaborative work environments, receptions / after-party events, or other
-sponsored or unofficial events related to ChiPy events.
-
-Sponsors are also subject to the anti-harassment policy. In particular,
-sponsors should not use sexualised images, activities, or other material.
 
 ## Contact Information
 
